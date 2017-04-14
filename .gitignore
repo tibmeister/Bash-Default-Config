@@ -1,0 +1,10 @@
+*
+!README.md
+!.gitignore
+!.bashrc
+!.bash_profile
+!.bash_logout
+!.dircolors
+!.tmux.conf
+!.nano
+!.nanorc

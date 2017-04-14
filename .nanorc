@@ -1,0 +1,6 @@
+set backup
+set backupdir ~/.nanoback
+set historylog
+set mouse
+set rebindkeypad
+set suspend

@@ -1,0 +1,7 @@
+[color]
+	ui = auto
+[user]
+	name = Jody L. Whitlock
+	email = jody.whitlock@tiberiansun.us
+[push]
+        default = simple
